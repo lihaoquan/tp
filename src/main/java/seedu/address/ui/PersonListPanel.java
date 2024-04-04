@@ -121,7 +121,6 @@ public class PersonListPanel extends UiPart<Region> {
             }
         }
     }
-
     private void showInfoDialog() {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle(INFO_DIALOG_TEXT);
